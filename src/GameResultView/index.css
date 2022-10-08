@@ -1,0 +1,43 @@
+.ShowResultContainer {
+    width: 100%;
+
+}
+
+.ResultImagesContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+
+.ResultText {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+.ResultImageItem {
+     width: 150px;
+     height: 150px;
+}
+
+
+.ResultButtonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.PlayAgainButton {
+    border: 0;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Roboto';
+    font-size: 15px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    cursor: pointer;
+}

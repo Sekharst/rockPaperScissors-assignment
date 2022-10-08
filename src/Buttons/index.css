@@ -1,0 +1,18 @@
+.ButtonLiContainer {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 50%;
+}
+
+.ButtonImage {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+.ImageItem {
+  width: 150px;
+  height: 150px;
+}
